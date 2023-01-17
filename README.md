@@ -2,16 +2,10 @@
 - [DEMO LINK](https://vladyslava-buzova.github.io/<repo_name>/)
 
 # What is a landing page?
+SEO optimized landing page 'Eco cosmetics' with adaptive design.
 It's a webpage created specifically to persuade users to purchase products, for a marketing or advertising campaign.
-It’s where a visitor “lands” after they click on a link in an email, or ads from Google,
-Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web.
-Unlike web pages, which typically have many goals and encourage exploration,
-landing pages are designed with a single focus or goal, known as a call to action (or CTA, for short).
 
 # Technologies:
-SEO optimized landing page 'Eco cosmetics' with adaptive design.
-The website can be viewed on any device.
-
 HTML, CSS, Sass (SCSS), BEM, JavaScript.
 
 # Implemented features in JS:
@@ -20,8 +14,9 @@ HTML, CSS, Sass (SCSS), BEM, JavaScript.
 3. Tabs.
 4. Form validation.
 5. SEO optimized meta description.
+6. Adaptive and can be viewed on any device.
 
-# Eco cosmetics landing page
+# Figma design
 Landing page was implement according to
 [Figma design](https://www.figma.com/file/JssZ43sciNf3WY4UGjFy6I/Brand-of-eco-cosmetics-_FE-students-(Copy)?node-id=21779%3A2&t=i8UF0JQ3qgRCeZuf-0)
 
