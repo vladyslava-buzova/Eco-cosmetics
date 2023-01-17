@@ -1,5 +1,5 @@
 # Eco cosmetics landing page
-- [DEMO LINK](https://vladyslava-buzova.github.io/<repo_name>/)
+- [DEMO LINK](https://vladyslava-buzova.github.io/Eco-cosmetics/)
 
 # What is a landing page?
 SEO optimized landing page 'Eco cosmetics' with adaptive design.
