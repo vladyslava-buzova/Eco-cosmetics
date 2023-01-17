@@ -2,8 +2,9 @@
 - [DEMO LINK](https://vladyslava-buzova.github.io/Eco-cosmetics/)
 
 # What is a landing page?
-SEO optimized landing page 'Eco cosmetics' with adaptive design.
+SEO optimized landing page 'Eco cosmetics' with an adaptive design.
 It's a webpage created specifically to persuade users to purchase products, for a marketing or advertising campaign.
+Can be viewed on any device.
 
 # Technologies:
 HTML, CSS, Sass (SCSS), BEM, JavaScript.
