@@ -21,7 +21,7 @@ HTML, CSS, Sass (SCSS), BEM, JavaScript.
 Landing page was implement according to
 [Figma design](https://www.figma.com/file/JssZ43sciNf3WY4UGjFy6I/Brand-of-eco-cosmetics-_FE-students-(Copy)?node-id=21779%3A2&t=i8UF0JQ3qgRCeZuf-0)
 
-# How to lounch a project.
+# How to launch a project.
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
