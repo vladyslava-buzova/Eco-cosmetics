@@ -12,12 +12,10 @@ HTML, CSS, Sass (SCSS), BEM, JavaScript.
 4. Form validation.
 5. SEO optimized meta description.
 6. Page is adaptive for different screens.
-7. Classes are written according BEM methodology.
-8. Clickable links, animated images.
-6. Links lead to the corresponding blocks of the landing page.
-7. Favicon.
-8. The phone number and mail are clickable and when clicked, the browser offers to call the specified number or write a letter to the specified mail.
-9. All the social icons in the footer are clickable and open the social networks in a new tab.
+7. Clickable links lead to the corresponding blocks of the landing page.
+8. Favicon.
+9. The phone number and mail are clickable and when clicked, the browser offers to call the specified number or write a letter to the specified mail.
+10. All the social icons in the footer are clickable and open the social networks in a new tab.
 
 # Figma design
 Landing page was implement according to
