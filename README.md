@@ -3,7 +3,7 @@ SEO optimized landing page 'Eco cosmetics' with an adaptive design.
 - [DEMO LINK](https://vladyslava-buzova.github.io/Eco-cosmetics/)
 
 # Technologies:
-HTML, CSS, Sass (SCSS), BEM, JavaScript.
+HTML, CSS, Sass (SCSS), JavaScript.
 
 # Implemented features:
 1. Hamburger menu.
